@@ -1,0 +1,3 @@
+If your Extention does not work, Discord patched the extention or the Extention Script is broken. Please wait until it's fixed.
+
+Thx

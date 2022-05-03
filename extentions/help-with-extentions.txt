@@ -1,0 +1,20 @@
+\--Method 1--/
+
+1 - Select your Extention
+2 - Open it
+3 - Close Discord after the Extension installs
+4 - Restart your Computer/PC
+5 - Open Discord
+
+\--Method 2--/
+
+1 - Select your Extention (it should be an .exe file)
+2 - Run it
+2.1 If your antivirus detect anything turn off your antivirus
+3 - Close Discord after the Extention installs
+4 - Restart your Computer/PC
+5 - Open Discord
+
+## More help? Well there is no anymore ##
+## Sike, you can check the youtube video here ##
+## (YouTube Link) ##

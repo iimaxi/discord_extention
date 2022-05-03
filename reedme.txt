@@ -1,0 +1,9 @@
+1- Run Discord Setup
+2- Log-in to your account
+3- Go to the extentions folder
+4- Don't close Discord App
+5- Run your extention
+6- Wait until installs Extention
+7- Close Discord
+8- Restart Computer
+9- Open Discord and the extention will be installed.
